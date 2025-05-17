@@ -38,14 +38,6 @@ Comes with comprehensive API documentation, webhooks, and SDKs for Python, JavaS
 
 ---
 
-## 🛠️ Advanced Usage Scenarios
-
-### Enterprise Deployment
-```bash
-./deploy.sh --enterprise --nodes 50 --geo-distributed --failover
-
----
-
 ## 🏆 Competitive Advantages
 
 ### ⏱️ Unmatched Deployment Speed
